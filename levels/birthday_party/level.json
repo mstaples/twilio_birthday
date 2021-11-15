@@ -1,0 +1,26 @@
+{
+  "title": "Twilio's TQ Birthday Party",
+  "description": "You're invited to a virtual birthday party for Twilio!",
+  "questTitle": "Twilio Party",
+  "questDescription": "Happy Birthday, Twilio!",
+  "is_mission": true,
+  "priority": 10,
+  "navMap": {
+    "x": 50,
+    "y": 30,
+    "sprite": "nav_map/example_cupcake.png"
+  },
+  "backgroundMusic": "fascinatingarea_108253b",
+  "backgroundEffect": {
+    "key": "starfield",
+    "options": {
+      "direction": "topToBottom"
+    }
+  },
+  "flavorTextOverrides": {
+    "bookshelf": "Ask Your Developer -- that sounds like a good read."
+  },
+  "objectives": [
+  ]
+}
+
